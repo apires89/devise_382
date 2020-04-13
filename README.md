@@ -2,3 +2,6 @@ Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/ra
 
 
 Test change for github
+
+
+second change for github testing
